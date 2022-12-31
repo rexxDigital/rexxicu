@@ -9,7 +9,7 @@ function RecentProjects() {
                     <div className="hover:text-gray-500">
                         <p className="text-xs text-light text-gray-500">Dec 31, 2022</p>
                         <div className="tooltip" data-tip="You are here!">
-                            <h3 className="text-2xl">Personal website</h3>
+                            <h3 className="text-2xl text-gray-900">Personal website</h3>
                         </div>
                         <p className="text-sm font-serif font-light text-gray-700">My small, simple, static website.</p>
                     </div>

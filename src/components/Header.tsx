@@ -21,7 +21,7 @@ function Header() {
 
     return(
         <>
-            <h1 className="text-3xl font-bold mb-2 select-none cursor-text">Rexx J. Larsson's Digital Residency</h1>
+            <h1 className="text-3xl font-bold mb-2 select-none cursor-text text-gray-900">Rexx J. Larsson's Digital Residency</h1>
             <p className="font-serif font-light text-gray-500 mb-2 cursor-text">
 			    Rexx the cat loving software engineer. I want to make games and work with code, my interests include game development, <a href="https://reactos.org/" target="_blank" className="underline">ReactOS</a>, and psychology.
 		    </p>
