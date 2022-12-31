@@ -42,7 +42,7 @@ function Header() {
             </div>
 
             { /* @ts-ignore */ }
-            <div className="divider font-serif font-light text-gray-500 text-sm select-none">{quotes[numbo]} </div> 
+            <div className="divider font-serif font-light text-gray-500 text-sm select-none">{quotes[numbo]}</div> 
 
         </>
     )
