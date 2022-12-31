@@ -40,13 +40,10 @@ function Header() {
                     <img src={fsf} width={135} alt="linkedin logo" />
                 </a>
             </div>
-            {numbo == 1 ? (
-                // @ts-ignore
-                <div className="divider font-serif font-light text-gray-500 text-xs select-none">{quotes[numbo]} </div> 
-            ) : (
-                // @ts-ignore
-                <div className="divider font-serif font-light text-gray-500 text-sm select-none">{quotes[numbo]} </div> 
-            )}
+
+            { /* @ts-ignore */ }
+            <div className="divider font-serif font-light text-gray-500 text-sm select-none">{quotes[numbo]} </div> 
+
         </>
     )
 }
