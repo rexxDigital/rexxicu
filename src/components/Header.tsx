@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "preact/hooks";
 import github from '../images/github-mark.svg'
 import email from '../images/email2.png'
 import linkedin from '../images/linkedin.svg'
