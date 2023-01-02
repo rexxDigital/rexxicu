@@ -1,6 +1,6 @@
 function RecentProjects() {
     return(
-        <>
+        <div className="pb-8">
             <h2 className="text-sm font-light font-serif text-gray-500 mb-2">Recent Projects</h2>
             <a href="#">
                 <div className="w-full">
@@ -25,7 +25,7 @@ function RecentProjects() {
                     </div>
                 </div>
             </a>
-        </>
+        </div>
     )
 }
 
